@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: complete-production-e2e-app
-          image: samycloud/complete-production-e2e-pipeline:CHANGEME
+          image: samycloud/complete-prodcution-e2e-pipeline:0.0.1-18
           resources:
             limits:
               memory: "256Mi"
